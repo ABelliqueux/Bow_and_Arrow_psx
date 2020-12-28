@@ -15,31 +15,31 @@ This project uses [Nugget+PsyQ](https://github.com/ABelliqueux/nolibgs_hello_wor
 
 Git clone the project in the pcsx-redux folder : `(...)/pcsx-redux/src/mips/`,then in a terminal, just type `make` to build the ps-exe.
 
-#Credits !
+# Credits !
 
 ## Sound effects :
 
-ready       ©2020 Fesliyan Studios Inc. - https://www.fesliyanstudios.com/play-mp3/4937
-pop         Myinstants - https://www.myinstants.com/instant/pop/?utm_source=copy&utm_medium=share
-jump        2873.mp3 http://www.universal-soundbank.com/
-shtoc        2873.mp3 http://www.universal-soundbank.com/
-shoot       ©2020 Fesliyan Studios Inc. - https://www.fesliyanstudios.com/play-mp3/7742
+ready       ©2020 Fesliyan Studios Inc. - https://www.fesliyanstudios.com/play-mp3/4937  
+pop         Myinstants - https://www.myinstants.com/instant/pop/?utm_source=copy&utm_medium=share  
+jump        2873.mp3 http://www.universal-soundbank.com/  
+shtoc        2873.mp3 http://www.universal-soundbank.com/  
+shoot       ©2020 Fesliyan Studios Inc. - https://www.fesliyanstudios.com/play-mp3/7742  
 
 ## Music :
 
-Folk Round by Kevin MacLeod
-Link: https://incompetech.filmmusic.io/song/3770-folk-round
-License: http://creativecommons.org/licenses/by/4.0/
+Folk Round by Kevin MacLeod  
+Link: https://incompetech.filmmusic.io/song/3770-folk-round  
+License: http://creativecommons.org/licenses/by/4.0/  
 
-Village Consort by Kevin MacLeod
-Link: https://incompetech.filmmusic.io/song/4585-village-consort
-License: http://creativecommons.org/licenses/by/4.0/
+Village Consort by Kevin MacLeod  
+Link: https://incompetech.filmmusic.io/song/4585-village-consort  
+License: http://creativecommons.org/licenses/by/4.0/  
 
-Crowd Hammer by Kevin MacLeod
-Link: https://incompetech.filmmusic.io/song/4983-crowd-hammer
-License: http://creativecommons.org/licenses/by/4.0/
+Crowd Hammer by Kevin MacLeod  
+Link: https://incompetech.filmmusic.io/song/4983-crowd-hammer  
+License: http://creativecommons.org/licenses/by/4.0/  
 
 ## Font for the unused You Won, You Lost messages:
 
-EB Garamond, by Georg Duffner : http://www.georgduffner.at/ebgaramond/index.html, 
+EB Garamond, by Georg Duffner : http://www.georgduffner.at/ebgaramond/index.html,   
 license : https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
