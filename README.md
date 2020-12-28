@@ -43,3 +43,9 @@ License: http://creativecommons.org/licenses/by/4.0/
 
 EB Garamond, by Georg Duffner : http://www.georgduffner.at/ebgaramond/index.html,   
 license : https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+
+## Help 
+
+Big thanks to the psxdev community at psxdev.net, and on the discord for their help and company, including but not limited to:
+
+@NicolasNoble, @Jabby smoll seamonstah, @Lameguy64, @NDR008, @Sickle, @Paul...
